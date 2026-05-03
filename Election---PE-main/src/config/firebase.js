@@ -3,13 +3,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // TODO: Replace with your actual Firebase project configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyApdqmA_r6wxJ03cExE_mApb86XOASqF8k",
-  authDomain: "election-1201c.firebaseapp.com",
-  projectId: "election-1201c",
-  storageBucket: "election-1201c.firebasestorage.app",
-  messagingSenderId: "74314534644",
-  appId: "1:74314534644:web:7fc4238cad98d1c89958a1",
-  measurementId: "G-QH1CMGLZLB"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID",
+  measurementId: "YOUR_MEASUREMENT_ID"
 };
 
 // Initialize Firebase
